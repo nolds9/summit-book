@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* 1. Mission
+* [wdi-summit-notes](wdi-summit-notes.md)
 
