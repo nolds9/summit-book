@@ -1,1 +1,5 @@
-# WDI Summit Notes
+# Summary
+
+* [Introduction](README.md)
+* 1. Mission
+
